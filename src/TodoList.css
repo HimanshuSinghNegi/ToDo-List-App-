@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+i{
+    font-size: x-large;
+padding: 4px 8px;
+}
+i:hover{
+    color: red;
+}
+.todo_style{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  
+}
